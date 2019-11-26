@@ -1,0 +1,10 @@
+C:\Users\musta\source\repos\average\average\bin\Debug\average.exe.config
+C:\Users\musta\source\repos\average\average\bin\Debug\average.exe
+C:\Users\musta\source\repos\average\average\bin\Debug\average.pdb
+C:\Users\musta\source\repos\average\average\obj\Debug\average.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\average\average\obj\Debug\average.frm_average.resources
+C:\Users\musta\source\repos\average\average\obj\Debug\average.Properties.Resources.resources
+C:\Users\musta\source\repos\average\average\obj\Debug\average.usr_lesson.resources
+C:\Users\musta\source\repos\average\average\obj\Debug\average.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\average\average\obj\Debug\average.exe
+C:\Users\musta\source\repos\average\average\obj\Debug\average.pdb
